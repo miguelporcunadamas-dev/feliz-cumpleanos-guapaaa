@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://miguelporcunadamas-dev.github.io/feliz-cumpleanos-guapaaa/sitemap.xml
